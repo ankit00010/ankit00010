@@ -1,3 +1,6 @@
+
+<img align="right" height="500" width="600" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+
 <h2 align="left">Hi 👋! My name is Ankit. I'm incredibly passionate about web development</h2>
 
 <div align="left">
@@ -9,7 +12,6 @@
   </p>
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
@@ -41,7 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="30" alt="sqlite logo"/>
 </div>
 
+
 <div align="left">
+  
   <a href="https://www.youtube.com/watch?v=5ijHB7JALrs&list=PLFtWhjbsuiVxU91FdglaOToy1VDobJ97N&pp=gAQBiAQB">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"/>
   </a>
