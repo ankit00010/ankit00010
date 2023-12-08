@@ -1,5 +1,5 @@
 
-<img align="right" height="500" width="600" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+<img align="right" height="300" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
 <h2 align="left">Hi 👋! My name is Ankit. I'm incredibly passionate about web development</h2>
 
