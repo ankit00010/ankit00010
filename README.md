@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&duration=4000&pause=2&color=84E61ED1&background=05685600&random=false&width=435&lines=Hi+I'm+Ankit++%F0%9F%97%BF;Mern+Stack+Developer+;Connect+with+me+!)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&duration=4000&pause=2&color=84E61ED1&background=05685600&random=false&width=435&lines=Hi+I'm+Ankit++%F0%9F%97%BF;Mern+Stack+Developer+;Connect+with+me+!" alt="Typing SVG" /></a>
-
 - 🔭 I’m currently working on Full-stack projects
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on Full-stack projects
