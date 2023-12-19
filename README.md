@@ -1,6 +1,6 @@
 <img align="right" height="300" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=4000&pause=2&color=84E61ED1&background=05685600&random=false&width=435&lines=Hi,+I'm+Ankit;Mern+Stack+Developer+;Connect+with+me+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=4000&pause=2&color=84E61ED1&background=05685600&random=false&width=435&lines=Hi,+I'm+Ankit;Connect+with+me+!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Full-stack projects
 - 🌱 I’m currently learning Next.js.
