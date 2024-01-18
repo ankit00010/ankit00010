@@ -1,4 +1,5 @@
 <img align="right" height="300" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+<br/><br/><br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3500&pause=5&color=02F569CC&random=false&width=435&lines=Hi+%2C+I'm+Ankit;Connect+with+me+!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on Full-stack projects
