@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Full-stack projects
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on Full-stack projects
-- 📫 How to reach me: [ankitmishra.work005@gmail.com](mailto:ankitmishra.work005@gmail.com)
+- 📫 How to reach me: <a href="mailto:ankitmishra.work005@gmail.com" style="color: white;">ankitmishra.work005@gmail.com</a>
 ## 🌐Socials
   <a href="https://linkedin.com/in/ankit-ravindra-mishra-19050121a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/watch?v=5ijHB7JALrs&list=PLFtWhjbsuiVxU91FdglaOToy1VDobJ97N&pp=gAQBiAQB/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
