@@ -1,4 +1,4 @@
-<img align="right" height="300" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+<img align="right" height="300" width="400" src="[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcode&psig=AOvVaw3tOnrHsmwTzyFSaesywzTZ&ust=1724305982738000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDBl76yhYgDFQAAAAAdAAAAABAo)" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3500&pause=5&color=02F569CC&random=false&width=435&lines=Hi+%2C+I'm+Ankit;Connect+with+me+!)]
