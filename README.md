@@ -4,7 +4,7 @@
 <br/><br/><br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3500&pause=5&color=02F569CC&random=false&width=435&lines=Hi+%2C+I'm+Ankit;Connect+with+me+!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on Full-stack projects
-- 🌱 I’m currently learning Real Time and AI Related Projects.
+- 🌱 Currently learning about Real-Time and AI-related projects.
 - 👯 I’m looking to collaborate on Full-stack projects as a Freelancer or Fulltime Job (Remote/Hybrid/On-Site)
 - 📫 How to reach me: <a href="mailto:ankitmishra.work005@gmail.com" style="color: white;text-decoration: none;">ankitmishrawork844@gmail.com</a>
 ## 🌐Socials
