@@ -4,10 +4,11 @@
 <br/><br/><br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3500&pause=5&color=02F569CC&random=false&width=435&lines=Hi+%2C+I'm+Ankit;Connect+with+me+!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on Full-stack projects
-- 🌱 I’m currently learning Next.js.
-- 👯 I’m looking to collaborate on Full-stack projects
-- 📫 How to reach me: <a href="mailto:ankitmishra.work005@gmail.com" style="color: white;text-decoration: none;">ankitmishra.work005@gmail.com</a>
+- 🌱 I’m currently learning Real Time and AI Related Projects.
+- 👯 I’m looking to collaborate on Full-stack projects as a Freelancer or Fulltime Job (Remote/Hybrid/On-Site)
+- 📫 How to reach me: <a href="mailto:ankitmishra.work005@gmail.com" style="color: white;text-decoration: none;">ankitmishrawork844@gmail.com</a>
 ## 🌐Socials
+Checkout 
   <a href="https://linkedin.com/in/ankit-ravindra-mishra-19050121a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/watch?v=5ijHB7JALrs&list=PLFtWhjbsuiVxU91FdglaOToy1VDobJ97N&pp=gAQBiAQB/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 # 💻Tech Stack
