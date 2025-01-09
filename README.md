@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Full-stack projects
 - 🌱 Currently learning about Real-Time and AI-related projects.
 - 👯 I’m looking to collaborate on Full-stack projects as a Freelancer or Fulltime Job (Remote/Hybrid/On-Site)
-- 📫 How to reach me: <a href="mailto:ankitmishra.work005@gmail.com" style="color: white;text-decoration: none;">ankitmishrawork844@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:ankitmishra.work005@gmail.com" style="color: white;text-decoration: none;">ankitmish83@gmail.com</a>
 ## 🌐Socials
 
   <a href="https://linkedin.com/in/ankit-ravindra-mishra-19050121a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
