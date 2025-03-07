@@ -1,9 +1,48 @@
 # 🧑‍💻 Ankit Mishra - Portfolio
 
-I'm <strong>Ankit Mishra</strong>, a solution-driven <strong>Software Developer</strong> who builds clean, efficient applications that solve real problems.
-⚡️ Specializing in <strong>Next.js</strong>, <strong>TypeScript</strong>, and the <strong>MERN Stack</strong>, I create intuitive interfaces backed by scalable architecture.
-💡 With strong <strong>System Design</strong> skills, I don't just code solutions—I architect systems that grow with your business.
-Let's build something exceptional together.
+<section
+  style="
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    color: #e0e0e0;
+    background-color: #121212;
+  "
+>
+  <h1
+    style="
+      font-size: 32px;
+      margin-bottom: 16px;
+      color: #ffcc80;
+    "
+  >
+    👋 Hi, I'm <strong style="color: #e0a87b;">Ankit Mishra</strong>
+  </h1>
+  <p style="margin-bottom: 16px;">
+    I'm a <strong style="color: #e0a87b;">solution-driven Software Developer</strong> passionate
+    about building clean, efficient applications that solve real-world problems.
+  </p>
+  <p style="margin-bottom: 16px;">
+    ⚡️ I specialize in <strong style="color: #e0a87b;">Next.js</strong>,
+    <strong style="color: #e0a87b;">TypeScript</strong>, and the
+    <strong style="color: #e0a87b;">MERN Stack</strong>, crafting intuitive interfaces backed by
+    scalable architecture.
+  </p>
+  <p style="margin-bottom: 16px;">
+    💡 With strong <strong style="color: #e0a87b;">System Design</strong> skills, I focus on
+    creating solutions that not only work today but scale for tomorrow.
+  </p>
+  <h2
+    style="
+      margin-top: 32px;
+      font-size: 24px;
+      color: #81c784;
+    "
+  >
+    🚀 Let's build something exceptional together!
+  </h2>
+</section>
+
 ---
 
 ## 🌐 Portfolio
