@@ -1,9 +1,9 @@
 # 🧑‍💻 Ankit Mishra - Portfolio
 
-Hi, I'm **Ankit Mishra**, a passionate **Software Developer** focused on building clean, efficient, and scalable applications.  
-I specialize in **Next.js**, **TypeScript**, and **MERN Stack**, with a strong understanding of **System Design**.  
-If you're looking for someone who believes in solving real problems with simple and optimized solutions, feel free to check out my work.
-
+I'm Ankit Mishra, a solution-driven Software Developer who builds clean, efficient applications that solve real problems.
+⚡️ Specializing in Next.js, TypeScript, and the MERN Stack, I create intuitive interfaces backed by scalable architecture.
+💡 With strong System Design skills, I don't just code solutions—I architect systems that grow with your business.
+Let's build something exceptional together.
 ---
 
 ## 🌐 Portfolio
