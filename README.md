@@ -73,4 +73,6 @@ I'm a full-stack developer specializing in JavaScript technologies. Rather than 
 </div>
 </p>
 
-<p align="center">⭐️ From [ankit00010](https://github.com/ankit00010)</p>
+### 👀 Profile Views
+[![Profile Views](https://visitcount.itsvg.in/api?id=ankit00010&icon=1&color=12)](https://github.com/ankit00010)
+
