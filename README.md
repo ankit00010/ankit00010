@@ -47,9 +47,9 @@ I'm a full-stack developer specializing in JavaScript technologies. Rather than 
 
 ## 🚀 Featured Projects
 <!-- You can add your top projects here -->
-- [Project 1](https://github.com/ankit00010/project1) - Brief description
-- [Project 2](https://github.com/ankit00010/project2) - Brief description
-- [Project 3](https://github.com/ankit00010/project3) - Brief description
+- [QuickAssist Chatbot](https://github.com/ankit00010/QuickAssist-Chatbot-Server) – A chatbot server to handle dynamic queries and provide automated responses.  
+- [AAL Logistics Website](https://github.com/ankit00010/AAL-Logisitcs-Website) – A logistics company website built to manage and showcase logistics services.
+
 
 ## 📫 How to Reach Me
 - Email: [ankitmishra.work005@gmail.com](mailto:ankitmishra.work005@gmail.com)
@@ -64,7 +64,13 @@ I'm a full-stack developer specializing in JavaScript technologies. Rather than 
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ankit00010&icon=1&color=12" alt="Profile Views" />
+<div style="text-align: center; margin-top: 20px;">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=ankit00010&icon=1&color=12" 
+    alt="Profile Views"
+    style="width: 150px; height: auto;"
+  />
+</div>
 </p>
 
 <p align="center">⭐️ From [ankit00010](https://github.com/ankit00010)</p>
