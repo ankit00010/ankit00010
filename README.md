@@ -41,9 +41,7 @@ I'm a full-stack developer specializing in JavaScript technologies. Rather than 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankit00010&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit00010&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+
 
 ## 🚀 Featured Projects
 <!-- You can add your top projects here -->
