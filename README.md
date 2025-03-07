@@ -29,9 +29,9 @@ If you're looking for someone who believes in solving real problems with simple 
 
 ## 📊 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit00010&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit00010&layout=compact&theme=tokyonight)
 
 
 
