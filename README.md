@@ -23,12 +23,6 @@
     about building clean, efficient applications that solve real-world problems.
   </p>
   <p style="margin-bottom: 16px;">
-    ⚡️ I specialize in <strong style="color: #e0a87b;">Next.js</strong>,
-    <strong style="color: #e0a87b;">TypeScript</strong>, and the
-    <strong style="color: #e0a87b;">MERN Stack</strong>, crafting intuitive interfaces backed by
-    scalable architecture.
-  </p>
-  <p style="margin-bottom: 16px;">
     💡 With strong <strong style="color: #e0a87b;">System Design</strong> skills, I focus on
     creating solutions that not only work today but scale for tomorrow.
   </p>
