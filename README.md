@@ -22,10 +22,11 @@
     I'm a <strong style="color: #e0a87b;">solution-driven Software Developer</strong> passionate
     about building clean, efficient applications that solve real-world problems.
   </p>
-  <p style="margin-bottom: 16px;">
-    💡 With strong <strong style="color: #e0a87b;">System Design</strong> skills, I focus on
-    creating solutions that not only work today but scale for tomorrow.
-  </p>
+<p style="margin-bottom: 16px;">
+  💡 Exploring <strong style="color: #e0a87b;">System Design</strong> and Cloud Computing, I focus on
+  creating solutions that work today and scale for tomorrow.
+</p>
+
   <h2
     style="
       margin-top: 32px;
